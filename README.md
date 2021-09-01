@@ -2,9 +2,7 @@
 
 👀 Estou estudando programação com objetivo de me tornar desenvolvedora. 
 Já trabalhei na área de TI desde nova com software e principalmente hardware, mas estive alguns anos longe da área em outras atividades. 
-Minha atividade atual é na empresa Manuel VaIoT como Analista Bot UX.
-
-💞️ Este repositório está em construção e espero em breve ter projetos bem legais para compartilhar!
+Minha atividade atual é como Analista Bot UX / Desenvolvedora de Chatbot.
 
 📫 www.linkedin.com/in/daniellehennings
 
