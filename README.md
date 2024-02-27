@@ -1,8 +1,9 @@
 👋 Olá!
 
-👀 Estou estudando programação com objetivo de me tornar desenvolvedora. 
-Já trabalhei na área de TI desde nova com software e principalmente hardware, mas estive alguns anos longe da área em outras atividades. 
-Minha atividade atual é como UXW / Design de diálogos / Chatbot developer.
+Estou sempre estudando programação com objetivo de me tornar desenvolvedora. 
+Já trabalhei na área de TI desde nova com software e principalmente hardware.. 
+Sou pós graduada em UXW.
+Minha atividade atual é como UXW, Design de diálogos, analista chatbot, desenvolvedora chatbot, IA, NLU.
 
 📫 www.linkedin.com/in/daniellehennings
 
